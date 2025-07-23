@@ -5,7 +5,6 @@ SKU, Description, Location, OnHandQty, ReorderPoint, UnitCost
 """
 
 import pandas as pd
-import faker
 from faker import Faker
 from random import randint, choice, uniform
 from pathlib import Path
